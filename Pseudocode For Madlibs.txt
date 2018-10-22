@@ -1,0 +1,3 @@
+#madlibs
+#get input for different nouns colors adjectives animals verbs and smell
+#print the madlibs

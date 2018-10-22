@@ -1,3 +1,10 @@
+#Kyle Baldwin 4-5
+#madlibs
+#get input for different nouns colors adjectives animals verbs and smell
+#print the madlibs
+
+
+
 color1 = input("color")
 color2 = input(" color ")
 adjective1 = input(' adjective ')
